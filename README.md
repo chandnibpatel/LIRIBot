@@ -7,10 +7,10 @@ https://drive.google.com/file/d/1tm1CLHsgsk3aC3z9y0ussvXuCRCz_QOa/view
 # App Functionality:
  liri.js can take in one of the following commands:
 
-concert-this       : Searches the upcoming band event for the artist in Town using BandinTown API
-spotify-this-song  : Searches song dteails using Spotify node api
-movie-this         : Seacrhes movie details using axios and OMDB API
-do-what-it-says    : It takes the command from random.txt file and gives the respective details.
+1) concert-this       : Searches the upcoming band event for the artist in Town using BandinTown API
+2) spotify-this-song  : Searches song dteails using Spotify node api
+3) movie-this         : Seacrhes movie details using axios and OMDB API
+4) do-what-it-says    : It takes the command from random.txt file and gives the respective details.
 
 # Each Command will search
 
